@@ -1,0 +1,1 @@
+echo is a cool program to create file with some text inside
